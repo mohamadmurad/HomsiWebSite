@@ -198,7 +198,7 @@ a:hover {
 .status{
 
     color: #fff;
-    background: url(../image/bg/statistics.png) no-repeat center center fixed;
+    background: url(../img/bg/statistics.png) no-repeat center center fixed;
     min-height: 300px;
 }
 .status .data{

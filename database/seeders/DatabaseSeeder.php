@@ -24,7 +24,7 @@ class DatabaseSeeder extends Seeder
 
         DB::table('users')->insert([
             'name' => 'Sema ',
-            'email' => 'sema@gmail.com',
+            'email' => 'sema1997mreden@gmail.com',
             'password' => '$2y$10$3pP3cOCLkQRq7NDJ6k/zXOQcHsedy9o8rweWlABlSpU3AjZLCjklW',
             //  'isAdmin' => 1,
             // 'departments_id' => null,
